@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentManagerSample</string>
+    <string name="text_fragment_1">Exibir fragment 1</string>
+    <string name="text_fragment_2">Exibir fragment 2</string>
+</resources>
